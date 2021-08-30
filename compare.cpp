@@ -32,7 +32,7 @@ int main()
 	}
 	else
 	{
-		std::cout << "Error reading the file!!!!" << std::endl;
+		std::cout << "Error reading the file!!" << std::endl;
 	}
 
 }
